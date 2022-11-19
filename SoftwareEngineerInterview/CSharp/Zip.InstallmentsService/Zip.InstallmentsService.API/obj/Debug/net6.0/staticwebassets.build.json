@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aaWpdy5PqKPgaBWdWhet5gkdVuo4bUuU/YJiOU71R4o=",
+  "Source": "Zip.InstallmentsService.API",
+  "BasePath": "_content/Zip.InstallmentsService.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1osysB806bia5FzTZ23S6y3p1XQhWM4vSlL1NOFFBHLYp5HMwihBwWqCRygXqwyVU4g72bp3S8wdS7oYnWoa3g==",
+  "success": true,
+  "projectFilePath": "D:\\Suleman\\CSharp\\Zip.InstallmentsService\\Zip.InstallmentsService\\Zip.InstallmentsService.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\BCP\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "D:\\Users\\BCP\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "D:\\Users\\BCP\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "D:\\Users\\BCP\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

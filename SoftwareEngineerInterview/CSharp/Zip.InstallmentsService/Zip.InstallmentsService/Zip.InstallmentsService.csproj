@@ -6,4 +6,14 @@
     <RootNamespace>Zip.InstallmentsService</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Zip.InstallmentsService.Core\Zip.InstallmentsService.Core.csproj" />
+  </ItemGroup>
+
 </Project>
