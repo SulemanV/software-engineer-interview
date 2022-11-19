@@ -1,0 +1,15 @@
+D:\Suleman\CSharp\Zip.InstallmentsService\Zip.InstallmentsService.Data\bin\Debug\net6.0\Zip.InstallmentsService.Data.deps.json
+D:\Suleman\CSharp\Zip.InstallmentsService\Zip.InstallmentsService.Data\bin\Debug\net6.0\Zip.InstallmentsService.Data.dll
+D:\Suleman\CSharp\Zip.InstallmentsService\Zip.InstallmentsService.Data\bin\Debug\net6.0\Zip.InstallmentsService.Data.pdb
+D:\Suleman\CSharp\Zip.InstallmentsService\Zip.InstallmentsService.Data\bin\Debug\net6.0\Zip.InstallmentsService.Core.dll
+D:\Suleman\CSharp\Zip.InstallmentsService\Zip.InstallmentsService.Data\bin\Debug\net6.0\Zip.InstallmentsService.Core.pdb
+D:\Suleman\CSharp\Zip.InstallmentsService\Zip.InstallmentsService.Data\obj\Debug\net6.0\Zip.InstallmentsService.Data.csproj.AssemblyReference.cache
+D:\Suleman\CSharp\Zip.InstallmentsService\Zip.InstallmentsService.Data\obj\Debug\net6.0\Zip.InstallmentsService.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Suleman\CSharp\Zip.InstallmentsService\Zip.InstallmentsService.Data\obj\Debug\net6.0\Zip.InstallmentsService.Data.AssemblyInfoInputs.cache
+D:\Suleman\CSharp\Zip.InstallmentsService\Zip.InstallmentsService.Data\obj\Debug\net6.0\Zip.InstallmentsService.Data.AssemblyInfo.cs
+D:\Suleman\CSharp\Zip.InstallmentsService\Zip.InstallmentsService.Data\obj\Debug\net6.0\Zip.InstallmentsService.Data.csproj.CoreCompileInputs.cache
+D:\Suleman\CSharp\Zip.InstallmentsService\Zip.InstallmentsService.Data\obj\Debug\net6.0\Zip.InstallmentsService.Data.csproj.CopyComplete
+D:\Suleman\CSharp\Zip.InstallmentsService\Zip.InstallmentsService.Data\obj\Debug\net6.0\Zip.InstallmentsService.Data.dll
+D:\Suleman\CSharp\Zip.InstallmentsService\Zip.InstallmentsService.Data\obj\Debug\net6.0\refint\Zip.InstallmentsService.Data.dll
+D:\Suleman\CSharp\Zip.InstallmentsService\Zip.InstallmentsService.Data\obj\Debug\net6.0\Zip.InstallmentsService.Data.pdb
+D:\Suleman\CSharp\Zip.InstallmentsService\Zip.InstallmentsService.Data\obj\Debug\net6.0\ref\Zip.InstallmentsService.Data.dll
